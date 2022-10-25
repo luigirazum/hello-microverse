@@ -16,7 +16,6 @@
 
 - HTML
 - CSS
-- Javascript
 
 ## Authors
 
